@@ -7,4 +7,5 @@ print('dif:', a[0] - sum(a[1:len(a)]))
 
 print('sos')
 print(randint(1, 6))
+print('The end')
 
