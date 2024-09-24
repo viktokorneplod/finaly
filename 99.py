@@ -2,3 +2,6 @@ a = list(map(int, input('Введите сколько угодно чисел �
 print('sum:', sum(a))
 print('dif:', a[0] - sum(a[1:len(a)]))
 
+
+print('sos')
+
