@@ -1,5 +1,3 @@
 print('kapez')
 print('vot eto da')
-print('commit4')
-print('commit5')
-print('commit6')
+print('commit8')
